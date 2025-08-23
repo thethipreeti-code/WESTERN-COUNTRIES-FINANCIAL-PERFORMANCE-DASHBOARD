@@ -51,3 +51,6 @@ SQL → supporting queries and data validation
 Aspiring Data Analyst | Excel * SQL * Power BI
 🔗 LinkedIn https://www.linkedin.com/in/manpreet-kaur-66a123371/
  | GitHub https://github.com/thethipreeti-code/WESTERN-COUNTRIES-FINANCIAL-PERFORMANCE-DASHBOARD/edit/main/README.md
+
+ 
+
